@@ -12,14 +12,14 @@ Esta aplicação consome e exibe instantaneamente os dados geridos pela equipa o
 ---
 
 ### 💡 Problema & Solução
-* **Problema:** Em eventos e gincanas com múltiplas equipas, os participantes dependem de anúncios pontuais no microfone ou de quadros físicos para saberem a classificação, o que gera desinformação, atrasos e perda de engajamento.
-* **Solução:** Um aplicativo direto no telemóvel dos membros que sincroniza via WebSockets/tempo real com o banco de dados na nuvem, garantindo transparência imediata no placar de pontuações.
+* **Problema:** Em eventos e gincanas com múltiplas equipes, os participantes dependem de anúncios pontuais no microfone ou de quadros físicos para saberem a classificação, o que gera desinformação, atrasos e perda de engajamento.
+* **Solução:** Um aplicativo direto no celular dos membros que sincroniza via WebSockets/tempo real com o banco de dados na nuvem, garantindo transparência imediata no placar de pontuações.
 
 ---
 
 ### 🚀 Funcionalidades Principais
 * **Placar Geral em Tempo Real:** Atualização instantânea da classificação das equipas sem necessidade de recarregar a página manualmente.
-* **Detalhamento de Provas & Atividades:** Visualização transparente de pontos atribuídos, bónus e penalidades por categoria.
+* **Detalhamento de Provas & Atividades:** Visualização transparente de pontos atribuídos, bônus e penalidades por categoria.
 * **Interface Otimizada & Leve:** Navegação fluida desenvolvida com componentes nativos focada em baixo consumo de dados móveis e bateria.
 * **Arquitetura Segura em Nuvem:** Dados persistidos e protegidos no PostgreSQL via Supabase.
 
